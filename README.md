@@ -16,3 +16,5 @@
 - `StageOpt` :[Stagewise Safe Bayesian Optimization with Gaussian Processes](https://arxiv.org/abs/1806.07555)
 
 - `Debias_Methods`:[Selection Bias Explorations and Debias Methods for Natural Language Sentence Matching Datasets](https://arxiv.org/abs/1905.06221)
+
+- `BridgingGap`:[Bridging the Gap between Training and Inference for Neural Machine Translation](https://arxiv.org/abs/1906.02448)
