@@ -1,24 +1,12 @@
-# StageOpt
+# [Stagewise Safe Bayesian Optimization with Gaussian Processes](https://arxiv.org/abs/1806.07555)
 
-## 项目结构
+## Main Idea
 
-- StageOpt实现：`stage_opt.py`
+## Assume
 
-- 测试样例：`stage.ipynb`
+## Method
 
-- 对比实验：
-- `test.py`
-- `test_safeopt.py`
+## Experients
 
-- 展示用ppt：`20190731-jdr.pdf`
-
-## 参考
-
-### 参考文献
-- [Y. Sui et al., 2015](https://las.inf.ethz.ch/files/sui15icml-long.pdf)
-
-- [Y. Sui et al., 2018](http://web.stanford.edu/~ysui/papers/sui2018icml.pdf)`
-
-### 参考实现
-- [SafeOpt]( https://github.com/befelix/SafeOpt.git)
-
+### Git Repository
+[Stagewise Safe Bayesian Optimization with Gaussian Processes](https://github.com/jdr16/StageOpt.git)
